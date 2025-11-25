@@ -1,33 +1,31 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# Dr. Md. Jakir Hossen - Academic Portfolio Website
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
+[![Website Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![HugoBlox](https://img.shields.io/badge/Built%20with-HugoBlox-blue.svg)](https://hugoblox.com)
 
-<h1 align="center">Build an Academic CV and Resumé That Stands Out</h1>
+## About
 
-<p align="center">
-  <strong>Your unfair advantage in academia and tech.</strong><br/>
-  Showcase your work, boost your citations, and land your dream job at places like <strong>Meta, Google, and Stanford</strong>.
-</p>
+This is the academic portfolio website for **Dr. Md. Jakir Hossen**, Associate Professor at the Department of Robotics and Automation, Faculty of Engineering and Technology, Multimedia University (MMU), Melaka, Malaysia.
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Deploy Your Free CV in 60s</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>✨ Upgrade to Pro</b></a>
-</p>
+### Professional Profile
 
-<p align="center">
-  Trusted by 250,000+ researchers, students, and educators worldwide.
-</p>
+- **Position**: Associate Professor (SMIEEE, MIET, P.TECH)
+- **Institution**: Multimedia University (MMU), Malaysia
+- **Experience**: 19+ years in academia
+- **Research Focus**: Artificial Intelligence, Data Analytics, Robotics, IoT
 
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb">
-    <img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord">
-  </a>
-  <a href="https://github.com/HugoBlox/theme-academic-cv">
-    <img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars">
-  </a>
+### Research Metrics
+
+- **78** Journal Papers (WoS/Scopus Q1-Q3)
+- **38** Conference Papers
+- **3** Books/Chapters
+- **3** Copyrights/Patents
+- **h-index 16** (Google Scholar)
+- **h-index 11** (Scopus)
+
+## Quick Start
+
+To run this website locally:
 </p>
 
 ---
@@ -123,3 +121,15 @@ MIT © 2016-Present [George Cushen](https://georgecushen.com)
 <!--START_SECTION:news-->
 <!--Updated at 2025-11-23T02:11:14.091Z-->
 <!--END_SECTION:news-->
+
+
+## Running the Website
+
+```powershell
+huge server
+```
+
+Visit http://localhost:1313
+
+For detailed instructions, see **QUICK_START.md** and **UPDATES_SUMMARY.md**
+

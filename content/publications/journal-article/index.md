@@ -1,15 +1,19 @@
 ---
-title: "An example journal article"
+title: "Techno-Economic, Predictive Modeling, and Demand Response Analysis of a Renewable Energy-Based Microgrid for Residential Applications"
 authors:
+- Ali, M.F.
+- Sheikh, M.R.I.
+- Al Mamun, A.
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- ""
+- ""
+- ""
+- "Corresponding Author"
+date: "2025-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,27 +21,31 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*IEEE Access*"
+publication_short: "IEEE Access"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents a comprehensive techno-economic analysis and predictive modeling framework for renewable energy-based microgrid systems designed for residential applications. The study focuses on demand response analysis and optimization strategies to enhance grid stability and energy efficiency in residential settings.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Comprehensive analysis of renewable energy microgrid systems for residential applications with predictive modeling and demand response optimization.
 
 tags:
-- Source Themes
-featured: false
+- Renewable Energy
+- Microgrid
+- Predictive Modeling
+- Demand Response
+- Smart Grid
+featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    doi: ""
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+    url: ""
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: dataset
     url: ""
   - type: poster
@@ -45,7 +53,7 @@ links:
   - type: project
     url: ""
   - type: slides
-    url: https://www.slideshare.net/
+    url: ""
   - type: source
     url: ""
   - type: video

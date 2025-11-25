@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🤖 Welcome to My Research Journey in AI and Robotics
+summary: Exploring the intersection of Artificial Intelligence, Data Analytics, and Robotics for real-world applications
+date: 2024-11-25
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,12 +10,13 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Artificial Intelligence
+  - Robotics
+  - Data Analytics
+  - Machine Learning
+  - Research
 
 content_meta:
   trending: true
@@ -25,28 +26,39 @@ Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+## About My Research
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+With over 19 years of experience in academia, my research focuses on developing innovative solutions at the intersection of Artificial Intelligence, Data Analytics, and Robotics. I am passionate about creating technologies that make a real difference in people's lives.
 
-[//]: # '[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/HugoBlox/hugo-blox-builder/main/templates/academic-cv/preview.png)](https://hugoblox.com)'
+### Current Research Focus
 
-### Get Started
+My current research spans across several exciting domains:
 
-> [!TIP]+ Quick Start Guide
-> New to Hugo Blox? Follow these steps to get your site up and running in minutes!
+1. **Artificial Intelligence & Machine Learning**: Developing novel AI algorithms for complex real-world problems
+2. **Data Analytics**: Creating robust frameworks for handling noisy and incomplete data in IoT environments
+3. **Anomaly Detection**: Building intelligent systems for detecting abnormal patterns in various applications
+4. **Healthcare IoT**: Applying AI to improve healthcare delivery and patient monitoring
+5. **Renewable Energy**: Optimizing renewable energy systems using predictive modeling and AI
+6. **Robotics Control**: Designing intelligent control systems for autonomous robots
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://x.com/BuildLore) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### Research Impact
 
-> [!IMPORTANT]
-> Remember to backup your site before making major updates!
+Over my career, I have:
+- Published **78 journal papers** in high-impact WoS/Scopus indexed journals (Q1-Q3)
+- Presented **38 conference papers** at international venues
+- Authored **3 books/chapters**
+- Secured **3 copyrights/patents**
+- Supervised numerous PhD and Master's students to successful completion
+- Led research projects worth over RM 1.1 million
+
+### Collaboration Opportunities
+
+I am always looking for opportunities to collaborate with:
+- Researchers in AI, robotics, and related fields
+- Industry partners interested in applying AI solutions
+- Graduate students passionate about cutting-edge research
+
+Feel free to reach out if you're interested in collaboration! 😃
 
 ## Crowd-funded open-source software
 

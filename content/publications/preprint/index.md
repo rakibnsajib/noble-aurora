@@ -1,51 +1,60 @@
 ---
-title: "An example preprint / working paper"
+title: "A Physics-Guided Bayesian Neural Network for Sensor Fault Detection in Wind Turbines"
 authors:
+- Khan, M.A.
+- Rahman, A.
+- Mahmud, F.U.
+- Bishnu, K.K.
+- Nabil, H.R.
+- Mridha, M.F.
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*IEEE Open Journal of the Computer Society*"
+publication_short: "IEEE OJCS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents a novel physics-guided Bayesian neural network approach for detecting sensor faults in wind turbines. The method combines domain knowledge from physics with advanced machine learning techniques to improve fault detection accuracy and reliability in renewable energy systems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A novel approach combining physics-guided principles with Bayesian neural networks for accurate sensor fault detection in wind turbine systems.
 
 tags:
-- Large Language Models
+- Bayesian Neural Networks
+- Fault Detection
+- Wind Turbines
+- Renewable Energy
+- Physics-Guided ML
 
 featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    doi: ""
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
+- type: pdf
+  url: ""
 - type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
+  url: ""
 - type: slides
-  url: https://www.slideshare.net/
+  url: ""
 - type: dataset
-  url: "#"
+  url: ""
 - type: poster
-  url: "#"
+  url: ""
 - type: source
-  url: "#"
+  url: ""
 - type: video
-  url: https://youtube.com
+  url: ""
 - type: custom
   label: Custom Link
   url: http://example.org

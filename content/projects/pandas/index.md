@@ -1,15 +1,18 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Fuzzy Complex Event Processing for Network Fault Prediction
+date: 2018-01-01
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://www.mmu.edu.my/
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Fuzzy Logic
+  - Complex Event Processing
+  - Network Fault Prediction
+  - Machine Learning
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A TM RD funded project (RM 135,000) developing an intelligent fuzzy-based complex event processing system for predicting network faults in broadband networks.
 
 <!--more-->
+
+This innovative project combines fuzzy logic with complex event processing techniques to predict network faults before they occur. The system analyzes real-time network data streams, identifies patterns, and provides early warnings of potential failures, enabling proactive maintenance and improved network reliability. The research resulted in a copyright registration for the developed technology.

@@ -31,12 +31,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🔬 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am an Associate Professor at the Department of Robotics and Automation, Faculty of Engineering and Technology, Multimedia University, Melaka, Malaysia. With over 19 years of experience in academia, I focus on cutting-edge research in Artificial Intelligence, Data Analytics, and their applications in real-world scenarios.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research expertise spans across multiple domains including Anomaly Detection, Object Detection, Healthcare IoT, Renewable Energy systems, and Robotics Control. I have published over 78 journal papers in high-impact WoS/Scopus indexed journals, along with 38 conference papers and 3 books/chapters.
+
+        I am passionate about developing innovative solutions that bridge the gap between theoretical research and practical applications, particularly in healthcare, smart systems, and sustainable energy. I welcome collaborations with researchers, industry partners, and students who share similar interests.
 
         Please reach out to collaborate 😃
     design:

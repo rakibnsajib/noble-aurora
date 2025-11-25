@@ -1,15 +1,18 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: BigFuse - Robust Big Data Analytics for Network Fault Predictions
+date: 2018-01-01
 links:
   - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+    url: https://www.mmu.edu.my/
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Big Data
+  - Machine Learning
+  - Network Analytics
+  - Fault Prediction
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+A major research project funded by TM RD (RM 554,300) developing robust big data analytics platforms for predicting network faults in large-scale telecommunications infrastructure.
 
 <!--more-->
+
+BigFuse represents a comprehensive approach to handling massive volumes of network data for fault prediction and prevention. The project developed scalable machine learning algorithms and distributed computing frameworks capable of processing and analyzing big data in real-time. The system integrates multiple data sources, applies advanced analytics, and provides actionable insights for network operators to prevent service disruptions and optimize network performance.
