@@ -10,11 +10,11 @@ first_name: Md. Jakir
 last_name: Hossen
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
-  icon: 🤖
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -57,44 +57,6 @@ interests:
   - Renewable Energy
   - Robotics Control
 
-education:
-  - area: PhD in Smart Technology and Robotics Engineering
-    institution: University Putra Malaysia (UPM)
-    icon: ""
-    date_start: 2003-09-01
-    date_end: 2012-12-31
-    summary: |
-      Research with Course Work (12 credits), CGPA - 4.00/4.00
-      
-      Thesis: "A Framework of Modified Adaptive Neuro-Fuzzy Inference Engine"
-      
-      Conducted at Intelligent System and Robotics Laboratory, Institute of Advanced Technology (ITMA), UPM.
-  - area: M.Sc. in Communication and Network Engineering
-    institution: University Putra Malaysia (UPM)
-    icon: ""
-    date_start: 2000-06-01
-    date_end: 2003-08-31
-    summary: |
-      Research Work (No course work)
-      
-      Thesis: "Web-based Network Device Monitoring Tool Using Simple Network Management Protocol (SNMP)"
-      
-      Department of Computer and Communication System Engineering, Faculty of Engineering, UPM.
-  - area: B.Sc. in Mechanical Engineering
-    institution: Dhaka University of Engineering and Technology (DUET)
-    icon: ""
-    date_start: 1993-01-01
-    date_end: 1997-08-31
-    summary: |
-      Graduated from DUET (formerly BIT Dhaka), Bangladesh.
-  - area: Diploma in Automobile Engineering
-    institution: Dinajpur Polytechnic Institute (DPI)
-    icon: ""
-    date_start: 1989-01-01
-    date_end: 1992-12-31
-    summary: |
-      Department of Power (Automobile) Engineering, Dinajpur, Bangladesh.
-
 work:
   - position: Associate Professor
     company_name: Multimedia University (MMU)
@@ -136,6 +98,38 @@ work:
     date_end: 2005-12-31
     summary: |
       ITMA, UPM. Conducted research, tutorial and demo classes for undergraduates, published papers in journals and conferences.
+  - position: Graduate Research Assistant (Master's)
+    company_name: University Putra Malaysia (UPM)
+    company_url: 'https://www.upm.edu.my/'
+    icon: ''
+    date_start: 2000-06-01
+    date_end: 2003-06-30
+    summary: |
+      Faculty of Engineering. Conducting research, teaching tutorial and demo classes for undergraduates, publishing papers, and participating in national and international conferences.
+  - position: System Engineer
+    company_name: Falcon Information Technology
+    company_url: ''
+    icon: ''
+    date_start: 1999-04-01
+    date_end: 2000-05-31
+    summary: |
+      Dhaka, Bangladesh. Computer troubleshooting, software installation, and computer hardware assembly.
+  - position: Assistant Engineer
+    company_name: World Trade Enterprise
+    company_url: ''
+    icon: ''
+    date_start: 1997-11-01
+    date_end: 1998-09-30
+    summary: |
+      Dhaka, Bangladesh. Marketing engineering goods as Sales Promotion Officer.
+  - position: Lecturer (Part-time)
+    company_name: Institute of Admission Center for Engineers
+    company_url: ''
+    icon: ''
+    date_start: 1997-01-01
+    date_end: 1997-12-31
+    summary: |
+      Dhaka, Bangladesh. Lecturing on Physics, Mathematics and Engineering Subjects.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -184,41 +178,90 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Gold Medal - UNWANTED ELECTRICITY CONSUMPTION DETECTION
-    url: https://www.mmu.edu.my/
+  - title: Gold Medal - Unwanted Electricity Consumption Detection for Smart Home Energy System
+    url: ''
     date: '2023-01-01'
-    awarder: iNVENTX2023, MMU
+    awarder: iNVENTX2023, MMU, Malaysia
     icon: hero/trophy
     summary: |
-      Gold Medal for Smart Home Energy System project at iNVENTX2023, Malaysia.
-  - title: Gold Medal - FUZZY LOGIC BASED MULTI-AGENT SYSTEM
-    url: https://www.mmu.edu.my/
+      Gold Medal for Smart Home Energy System project at iNVENTX2023.
+  - title: Gold Medal - Fuzzy Logic Based Multi-Agent System for Medical Data Mining
+    url: ''
     date: '2023-01-01'
-    awarder: iNVENTX2023, MMU
+    awarder: iNVENTX2023, MMU, Malaysia
     icon: hero/trophy
     summary: |
-      Gold Medal for Medical Data Mining project at iNVENTX2023, Malaysia.
+      Gold Medal for Medical Data Mining project at iNVENTX2023.
   - title: Best Researcher Award
     url: ''
     date: '2021-01-01'
     awarder: International Scientist Awards on Engineering, Science and Medicine
     icon: hero/trophy
     summary: |
-      Recognized for outstanding contributions to research in AI and robotics at Coimbatore, India.
-  - title: Silver Medal - COVID-19 AI Analyzer
-    url: https://www.mmu.edu.my/
+      Recognized at Coimbatore India for outstanding contributions to research.
+  - title: Silver Medal - Covctx Lung CT Scans Based on Artificial Intelligence Enabled Analyzer for Covid-19 Cases
+    url: ''
     date: '2020-01-01'
     awarder: MTE2020, Malaysia
     icon: hero/trophy
     summary: |
-      Silver Medal for COVCTX: Lung CT Scans and X-Rays AI Enabled Analyzer for Covid 19 Cases.
-  - title: Best Research Poster Champion
-    url: https://www.mmu.edu.my/
+      Silver Medal for COVID-19 AI diagnosis system using lung CT scans.
+  - title: Silver Medal - Tool Condition Monitoring Using Acoustic Emission
+    url: ''
+    date: '2018-01-01'
+    awarder: RICES-2018, MMU
+    icon: hero/trophy
+    summary: |
+      Silver Medal for industrial tool condition monitoring research.
+  - title: Nominee - Excellent Research Award at MMU
+    url: ''
+    date: '2018-01-01'
+    awarder: Staff Awards-2018
+    icon: hero/trophy
+    summary: |
+      Nominated for Excellent Research Award at Multimedia University.
+  - title: Silver Medal - Fuzzy Logic Controller based Solar Tracking System
+    url: ''
+    date: '2018-01-01'
+    awarder: RICES-2018, MMU
+    icon: hero/trophy
+    summary: |
+      Silver Medal for solar tracking system using fuzzy logic control.
+  - title: Bronze Medal - Fuzzy Complex Event Processing
+    url: ''
+    date: '2018-01-01'
+    awarder: RICES-2018, MMU
+    icon: hero/trophy
+    summary: |
+      Bronze Medal for complex event processing research.
+  - title: Best Paper Award - Auto-ETL Automatic Cleaning Dirty Data in Data Analytical Process Using Machine Learning Paradigm
+    url: ''
+    date: '2018-01-01'
+    awarder: International Conference on Electrical, Electronic, Communication and Control Engineering
+    icon: hero/trophy
+    summary: |
+      Best Paper Award for machine learning-based data cleaning framework.
+  - title: Best Research Poster (1st Runner Up, RM300)
+    url: ''
+    date: '2015-01-01'
+    awarder: Infineon-MMU Technical Poster Session, FET
+    icon: hero/trophy
+    summary: |
+      First Runner Up for Adaptive Neuro-Fuzzy Inference Engine and Its Application to Big Data Modelling.
+  - title: Best Research Poster (Champion, RM1000)
+    url: ''
     date: '2014-01-01'
     awarder: Infineon-MMU Technical Poster Session, FET
     icon: hero/trophy
     summary: |
-      Champion (RM1000) for Novel Adaptive Fuzzy Inference System for Mobile Robot Navigation.
+      Champion for Novel Adaptive Fuzzy Inference System for Mobile Robot Navigation.
+  - title: Silver Medal - A Smart Context-Aware Middleware for Pervasive Computing Spaces Using Open Services Gateway Initiative (OSGi)
+    url: ''
+    date: '2005-01-01'
+    awarder: Pameran Reka Cipta and Penylidikan, UPM
+    icon: hero/trophy
+    summary: |
+      Silver Medal for smart middleware development using OSGi framework.
 ---
 
 Dr. Md. Jakir Hossen is an Associate Professor at the Department of Robotics and Automation, Faculty of Engineering and Technology (FET), Multimedia University (MMU), Melaka, Malaysia. With over 19 years of experience in leading Malaysian academic institutions, he has established himself as a dedicated educator and researcher. His research focuses on Artificial Intelligence, Data Analytics, Anomaly Detection, and their applications in Healthcare, IoT, Renewable Energy, and Robotics Control.
